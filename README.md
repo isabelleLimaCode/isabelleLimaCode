@@ -1,4 +1,4 @@
-<h2 align="left">My name is Isabelle Lima, I’m 28 years old and I am about to finish my undergraduate degree in Computer Engineering. I also have a technical course in computer.</h2>
+<h2 align="left">.</h2>
 
 ###
 
