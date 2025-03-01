@@ -2,7 +2,7 @@
 
 ---
 
-<img align="right" height="150" src="https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg" />
+<img align="right" height="150" src="https://blog.ebaconline.com.br/blog/wp-content/uploads/2022/12/ffapu6nxbihe77kajjmeh-e1674740233107.png" />
 
 ### 🚀 Tecnologias e Ferramentas
 
@@ -37,12 +37,7 @@
 ### 📬 Onde me encontrar
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
-  <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="GitHub logo" />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" />
-  <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="YouTube logo" />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord logo" />
+  <img src="https://www.linkedin.com/in/isabelle-correa-124a0a287/" height="35" alt="LinkedIn logo" />
 </div>
 
 ---
