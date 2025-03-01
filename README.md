@@ -1,7 +1,8 @@
 <h2 align="left">Bem-vindo ao meu perfil!</h2>
 
 ---
-<img align="right" height="150" src="https://png.pngtree.com/png-clipart/20240621/original/pngtree-programmer-work-place-sketch-png-image_15375939.png" style="border-radius: 15px;" />
+<img align="right" height="150" src="https://static.vecteezy.com/ti/vetor-gratis/p1/3694590-macho-programador-uma-pessoa-trabalhando-em-um-computador-vetor.jpg" style="border-radius: 15px;" />
+
 
 
 ### 🚀 Tecnologias e Ferramentas
