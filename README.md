@@ -1,8 +1,8 @@
 <h2 align="left">Bem-vindo ao meu perfil!</h2>
 
 ---
+<img align="right" height="150" src="https://png.pngtree.com/png-clipart/20240621/original/pngtree-programmer-work-place-sketch-png-image_15375939.png" style="border-radius: 15px;" />
 
-<img align="right" height="150" src="https://photos.app.goo.gl/wLMH5mNztDrmRafo9" />
 
 ### 🚀 Tecnologias e Ferramentas
 
