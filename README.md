@@ -2,7 +2,7 @@
 
 ---
 
-<img align="right" height="150" src="https://blog.ebaconline.com.br/blog/wp-content/uploads/2022/12/ffapu6nxbihe77kajjmeh-e1674740233107.png" />
+<img align="right" height="150" src="https://photos.app.goo.gl/wLMH5mNztDrmRafo9" />
 
 ### 🚀 Tecnologias e Ferramentas
 
