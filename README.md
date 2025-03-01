@@ -1,7 +1,7 @@
 <h2 align="left">Bem-vindo ao meu perfil!</h2>
 
 ---
-<img align="right" height="150" src="https://static.vecteezy.com/ti/vetor-gratis/p1/3694590-macho-programador-uma-pessoa-trabalhando-em-um-computador-vetor.jpg"  />
+<img align="right" height="150" src="https://static.vecteezy.com/ti/vetor-gratis/p1/3694590-macho-programador-uma-pessoa-trabalhando-em-um-computador-vetor.jpg" style="border-radius: 15px;" />
 
 
 
