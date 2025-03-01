@@ -37,7 +37,10 @@
 ### 📬 Onde me encontrar
 
 <div align="left">
-  <img src="https://www.linkedin.com/in/isabelle-correa-124a0a287/" height="35" alt="LinkedIn logo" />
+  <a href="https://www.linkedin.com/in/isabelle-correa-124a0a287/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png" height="35" alt="LinkedIn logo" />
+  </a>
 </div>
+
 
 ---
